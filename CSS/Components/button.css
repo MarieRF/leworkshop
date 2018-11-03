@@ -1,0 +1,21 @@
+.btn {
+  background-color: rgba(183, 130, 77,1);
+  padding:15px 20px;
+  border-radius: 4px;
+  color:white;
+/*  font-weight: bold;*/
+  font-family: "Rufina", serif;
+  font-size: 17px;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
+  margin:10px;
+}
+
+/*.btn-outils{
+    background-color: rgba(183, 130, 77,1);
+    padding:15px 20px;
+    border-radius: 4px;
+    color:white;
+    font-family: "Rufina", serif;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
+    margin:15px;
+}*/
