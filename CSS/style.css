@@ -1,11 +1,11 @@
 /* Importing Google fonts */
 @import url("https://fonts.googleapis.com/css?family=Arbutus+Slab|Montserrat|Raleway|Rufina");
 
-@import url("Components/avatar.css");
 @import url("Components/banner.css");
 @import url("Components/button.css");
 @import url("Components/container.css");
 @import url("Components/card.css");
+@import url("Components/grid.css");
 @import url("Components/menu.css");
 
 
